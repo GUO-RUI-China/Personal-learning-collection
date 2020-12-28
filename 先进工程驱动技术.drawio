@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2020-12-28T02:52:01.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="c8jqFjIbryHUOfofE1Kz" type="github"><diagram id="0fhJsxupJ34avvza4oCv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-28T03:07:11.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZeQq6WO1tXgrLoEBojKX" version="14.1.1" type="github">
+  <diagram id="0fhJsxupJ34avvza4oCv" name="Page-1">
+    <mxGraphModel dx="996" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="losFjBVcdrx-_rACfw7f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-1" target="losFjBVcdrx-_rACfw7f-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="200" />
+              <mxPoint x="330" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-1" target="losFjBVcdrx-_rACfw7f-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="200" />
+              <mxPoint x="590" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-1" value="RHEX六足行走机器人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-3" value="大疆M3508电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="575" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-5" target="losFjBVcdrx-_rACfw7f-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-5" value="树莓派4B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-7" target="losFjBVcdrx-_rACfw7f-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-7" target="losFjBVcdrx-_rACfw7f-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-7" value="硬件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-9" target="losFjBVcdrx-_rACfw7f-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-9" value="软件层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-11" target="losFjBVcdrx-_rACfw7f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-11" value="C620电调" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-17" value="CAN总线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-18" target="losFjBVcdrx-_rACfw7f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-18" value="机器人主体结构&lt;br&gt;（材料-6060铝合金）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-19" value="机器人腿部结构主要材质&lt;br&gt;3D打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="losFjBVcdrx-_rACfw7f-22" target="losFjBVcdrx-_rACfw7f-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-22" value="单一电机的PID控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="losFjBVcdrx-_rACfw7f-23" value="多电机的组网控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
